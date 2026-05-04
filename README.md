@@ -173,8 +173,6 @@ Mindset: Consistency > Intensity
 
 <div align="center">
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0B1020,40:312E81,70:7C3AED,100:0F172A&text=Not%20every%20day%20is%20productive.%20Every%20day%20teaches%20something.&fontColor=ffffff&fontSize=24&desc=Progress%20is%20built%20in%20struggle,%20debugging,%20and%20showing%20up%20again.&descAlignY=68&descSize=16"/>
-
 ### ⚡ Build • Learn • Repeat
 
 </div>
