@@ -131,7 +131,6 @@ Mindset: Consistency > Intensity
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -141,25 +140,25 @@ Mindset: Consistency > Intensity
 
 <td width="33%" align="center">
 
-<img width="100%" src="https://cdn.dribbble.com/userupload/4181539/file/original-9d8d6e7b6f6d0a3f6f7d2b5f7b5f2c1d.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0F172A,50:2563EB,100:7C3AED&text=DSA%20Notes%20Portal&fontColor=ffffff&fontSize=28"/>
 
 ### 📘 DSA Notes Portal
-> *Structured learning for coding interviews.*
-
-</td>
-
-<td width="33%" align="center">
-
-<img width="100%" src="https://cdn.dribbble.com/userupload/6327141/file/original-8f2a4cbe5f3c7f6b1a2f4f6e2c9a3e7e.png"/>
-
-### 🎯 Placement Portal
 > *Aptitude • CS Core • Interview Prep — all in one place.*
 
 </td>
 
 <td width="33%" align="center">
 
-<img width="100%" src="https://cdn.dribbble.com/userupload/7950463/file/original-b2f7d6e1c7a4b5d9a6f2c3e8b4d1f7c2.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:111827,50:0EA5E9,100:22C55E&text=Placement%20Portal&fontColor=ffffff&fontSize=28"/>
+
+### 🎯 Placement Portal
+> *Specialized Web app for college placement cell*
+
+</td>
+
+<td width="33%" align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:1E1B4B,50:7C3AED,100:EC4899&text=Habit%20App&fontColor=ffffff&fontSize=28"/>
 
 ### 🌱 Habit App
 > *Build discipline through small daily wins.*
@@ -170,24 +169,14 @@ Mindset: Consistency > Intensity
 </table>
 
 </div>
----
-
-# 💭 Developer Note
-
-<div align="center">
-
-> **"Not every day is productive. Every day teaches something."**  
-> **"Progress is built in struggle, debugging, and showing up again."**
-
-</div>
-
----
 
 
 <div align="center">
 
-## 🚀 Building • Learning • Growing
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0B1020,40:312E81,70:7C3AED,100:0F172A&text=Not%20every%20day%20is%20productive.%20Every%20day%20teaches%20something.&fontColor=ffffff&fontSize=24&desc=Progress%20is%20built%20in%20struggle,%20debugging,%20and%20showing%20up%20again.&descAlignY=68&descSize=16"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:2563EB,100:7C3AED"/>
+### ⚡ Build • Learn • Repeat
 
 </div>
+
+
